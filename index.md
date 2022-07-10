@@ -1,1 +1,5 @@
-Vaeriance coming soon
+---
+layout: default
+---
+
+Coming soon...
